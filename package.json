@@ -15,5 +15,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arkmer/Nodetest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arkmer/Nodetest/issues"
+  },
+  "homepage": "https://github.com/Arkmer/Nodetest#readme"
 }
